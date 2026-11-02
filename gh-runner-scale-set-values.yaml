@@ -1,0 +1,9 @@
+
+githubConfigUrl: "https://github.com/xiaoxu2026/repo1"
+
+githubConfigSecret: github-arc-secret
+
+minRunners: 0
+maxRunners: 2
+
+runnerScaleSetName: "arc-runner-set"
